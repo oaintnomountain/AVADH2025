@@ -1,0 +1,30 @@
+{
+  "audiovisual_files": {
+    "6df74dcf-610a-4405-a1ac-2a22f55a8eaa": {
+      "label": "Suspense",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=J-ZDESCVt9I&ab_channel=JamesBradfordHuston\t\t\t\t\t",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "dh2025 Suspense",
+  "created_at": "2025-07-15T15:51:38.567Z",
+  "created_by": "oaintnomountain",
+  "updated_at": "2025-07-15T15:51:38.567Z",
+  "updated_by": "oaintnomountain"
+}
