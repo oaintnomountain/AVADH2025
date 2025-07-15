@@ -1,0 +1,30 @@
+{
+  "audiovisual_files": {
+    "cd4818b6-82ab-4182-9b27-cd31856dba39": {
+      "label": "the lonely villa",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://avannotate.github.io/SuspenseTheLonelyVilla/",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "dh2025 the lonely villa",
+  "created_at": "2025-07-15T15:49:03.894Z",
+  "created_by": "oaintnomountain",
+  "updated_at": "2025-07-15T15:49:03.894Z",
+  "updated_by": "oaintnomountain"
+}
