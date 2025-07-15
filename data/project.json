@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "oaintnomountain",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104138914?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "oaintnomountain",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2025-07-15T14:10:53.258Z",
-    "updated_at": "2025-07-15T14:10:53.258Z"
-  }
+    "updated_at": "2025-07-15T14:10:53.258Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "a35fe9eb-faf8-4833-9594-5d8f113e3eb2": {
+      "content": [],
+      "created_at": "2025-07-15T14:10:53.261Z",
+      "created_by": "oaintnomountain",
+      "title": "AVAnnotate DH2025 Test",
+      "updated_at": "2025-07-15T14:10:53.261Z",
+      "updated_by": "oaintnomountain",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "a35fe9eb-faf8-4833-9594-5d8f113e3eb2"
+  ]
 }
