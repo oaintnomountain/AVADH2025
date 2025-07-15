@@ -1,0 +1,32 @@
+{
+  "audiovisual_files": {
+    "323c0a68-a21d-4427-975f-952a067e5a30": {
+      "label": "mpz_g8",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://vimeo.com/232888583?turnstile=0.6gvsQ5sSnJjwg-JPflbNzewIxNRu9F7ukCypY9RyN1JhuOgsU1bxqyUOGmesj0Z516-MZfnP2MU_2japobHhFbLGJf1ERBq88UDO9aq4U26ywNgB6SO87GYef43B7sT3RaUl3f0qHX9r27kZm6LZk0iY6sUPlnjAKjUiq8c9e91ghZp7OKKY4eLJ66vTqJy3vnYB0EqIfJFBma0lVtIdfG887_Q0A0iQb7Q1ZTLJYoFAB1P3Qp_WY0IxSxR-qD7rFa1A7U8_LH7jIuRH-9y8Zq-8DKugsq8z7jou7GzTDo6iNwGGKfva1PT9pLFyE5tXuPKrqGSQ6dlifJ9goE892oHGY93ewotDNkMAskRJ20YDXUPfm1iQID7GZKLUATu_tqdCPdboxLwwlTLg6Cc4AyMHQz3ntnyLKMQkLCHrRgX9WUziOQ-WjXUA6rbWb3tkL7KAcBCy7dAa2F3Pw0jUM95aWNzCSGp2ZebvIMfpwzwjMq1gN839dnI2PozpETFRFiuY9ziDwhl1zNZULupe7zIFqwZJgS0wpofxsUvCvUteUSDPcVdhnXkiIE3t-PT4ZKdj_bIEa0xXONcjo9SXdlzhd8qcwxO-ozDuJcw-CviYYkIOadtnIG3890zxRK1AHvl2YNvEWrcJm2ktnCNFaaQbuytpdA_RMqJjTe8p5_smwxvOXSiYO7ymARgnUgvuBrapg_oE-9TEWjTO50cYcxSc1hG1gi_VGDNKg-BygVjlXNz0D7chs2n9P8bGEETzlIc0dTUnKEsOPQ6hxRp9QXMWWUnasZP1YVXAeabmA9hk9s-OXIfzu1xNY4RS9wtsaeNO0nO6al64yGMmK-iScezqvuyTDkaxAr95wHpozmQ.8CBTvqnZwoCmYKYBt8UiMQ.fa6c307da69c573d1fe59723d6ec9f1221a28d6642c2a0709a54dacf33ce09b6",
+      "duration": 21420,
+      "caption_set": [],
+      "set_sort": [],
+      "duration_overridden": true
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Test, if video from mpz vimeo can be loaded"
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "mpz_g20",
+  "rights_statement": "https://rightsstatements.org/vocab/UND/1.0/",
+  "created_at": "2025-07-15T14:34:17.797Z",
+  "created_by": "oaintnomountain",
+  "updated_at": "2025-07-15T14:34:17.797Z",
+  "updated_by": "oaintnomountain"
+}
