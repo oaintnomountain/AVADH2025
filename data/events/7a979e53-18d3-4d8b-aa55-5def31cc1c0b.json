@@ -1,0 +1,30 @@
+{
+  "audiovisual_files": {
+    "64fc9df1-13c4-4899-b30a-44db66d1644e": {
+      "label": "test_av",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://ia803204.us.archive.org/34/items/Camille1921/Camille%201921.mp4",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "dh2025 testcase",
+  "created_at": "2025-07-15T15:46:07.187Z",
+  "created_by": "oaintnomountain",
+  "updated_at": "2025-07-15T15:46:07.187Z",
+  "updated_by": "oaintnomountain"
+}
